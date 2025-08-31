@@ -75,3 +75,10 @@ Split the dataset into training and testing sets for model development.
 Trained a Logistic Regression classification model on the training data.
 Made predictions on the test dataset and compared with actual results.
 Evaluated model performance using accuracy score, precision, recall, F1-score, and classification report.
+
+
+OUTPUT:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/41eb4b2e-7eae-4ee8-9055-447ba819217e" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a08a7c89-d180-4b8b-b3c8-dcb23db2514b" />
