@@ -82,3 +82,8 @@ OUTPUT:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/41eb4b2e-7eae-4ee8-9055-447ba819217e" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a08a7c89-d180-4b8b-b3c8-dcb23db2514b" />
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5d608cc1-50f4-47bb-878c-49fcc0d1800e" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/03174547-c8fc-4439-84a1-901937bf18e3" />
